@@ -50,8 +50,8 @@ mvn clean install
 
 Create a `.env` file or set environment variables:
 ```bash
-export OFFICIAL_EMAIL=your.email@chitkara.edu.in
-export GEMINI_API_KEY=your_gemini_api_key_here
+export OFFICIAL_EMAIL=gaurav1201.be23@chitkara.edu.in
+export GEMINI_API_KEY=AIzaSyC-UseQUssda9jau73W_5vlqwLp9hXKbqI
 export PORT=8080
 ```
 
